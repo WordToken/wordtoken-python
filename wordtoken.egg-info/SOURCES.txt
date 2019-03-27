@@ -1,0 +1,7 @@
+README.md
+setup.py
+wordtoken/__init__.py
+wordtoken.egg-info/PKG-INFO
+wordtoken.egg-info/SOURCES.txt
+wordtoken.egg-info/dependency_links.txt
+wordtoken.egg-info/top_level.txt

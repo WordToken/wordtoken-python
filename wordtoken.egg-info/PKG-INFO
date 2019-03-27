@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: wordtoken
+Version: 0.0.1
+Summary: Conversational Analytics
+Home-page: https://github.com/wordtoken/wordtoken
+Author: Lemuel Uhuru
+Author-email: hello@wordtoken.com
+License: UNKNOWN
+Description: # WordToken
+        
+        
+        ``` pip3 install wordtoken ```
+        
+        Perform conversational analytics and interface with the WordToken API at https://api.wordtoken.com using this package.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
